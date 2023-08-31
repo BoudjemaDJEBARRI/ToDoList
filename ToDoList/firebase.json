@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "ToDoList",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

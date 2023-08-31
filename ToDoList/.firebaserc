@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todolist-ang-fire": {
+      "hosting": {
+        "ToDoList": [
+          "todolist-ang-fire"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todolist-ang-fire"
+  }
+}
